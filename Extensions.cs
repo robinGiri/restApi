@@ -1,4 +1,4 @@
-using Catalog.Dtos;
+using Catalog.Dto;
 using Catalog.Entities;
 
 namespace Catalog
